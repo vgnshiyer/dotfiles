@@ -17,11 +17,14 @@ fzf --fish | source
 set -U fish_greeting
 
 alias ls="eza --icons=always --color=always"
-alias cl="clear"
 alias cd="z"
 alias nv="nvim"
 alias gtree="git log --pretty=oneline --graph --decorate --all"
 alias g="git"
 alias gs="git status"
+alias gc="git commit"
 alias lg="lazygit"
 alias vim="nvim"
+
+# display system info with random pokemon
+~/dotfiles/.config/fish/tmp/pokefetch/pokefetch.py -r
