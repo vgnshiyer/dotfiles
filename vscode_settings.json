@@ -10,6 +10,12 @@
     "apc.font.family": "JetBrainsMono Nerd Font",
     "apc.monospace.font.family": "JetBrainsMono Nerd Font",
     "apc.menubar.compact": true,
+    "apc.electron": {
+        "opacity": 0.95,
+        "transparent": true,
+        "backgroundColor": "#00000000",
+        "vibrancy": "ultra-dark"
+    },
     "breadcrumbs.enabled": false,
     "liveshare.accessibility.soundsEnabled": false,
     "github.copilot.enable": {
@@ -143,4 +149,3 @@
     "editor.linkedEditing": true,
     "editor.unicodeHighlight.includeComments": true
 }
-

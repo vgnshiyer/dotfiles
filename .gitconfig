@@ -1,0 +1,9 @@
+[user]
+	name = Vignesh Iyer
+    email = vgnshiyer@gmail.com
+
+[includeIf "gitdir:~/work-repos/"]
+    path = ~/work-repos/.gitconfig
+
+[credentials]
+	helper = store

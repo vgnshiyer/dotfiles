@@ -42,3 +42,5 @@ git clone --depth 1 https://github.com/wbthomason/packer.nvim\
 *Type `:so` to source the file and run `:PackerSync` to install plugins*
 
 *Copy settings.json to cursor user settings (JSON)*
+
+*Run `defaults write NSGlobalDomain ApplePressAndHoldEnabled -bool false` to enable long press in vscode* 
