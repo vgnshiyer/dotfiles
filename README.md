@@ -1,5 +1,13 @@
 # vgnshiyer's dotfiles
 
+## Preview
+
+<img width="1728" alt="Screenshot 2025-01-10 at 9 40 10 PM" src="https://github.com/user-attachments/assets/b722b416-be5c-4ee4-a61a-73d562b40827" />
+<img width="1728" alt="Screenshot 2025-01-10 at 9 37 30 PM" src="https://github.com/user-attachments/assets/2192f95f-1c6f-4f73-956c-4a1f4a15dfc3" />
+<img width="1728" alt="Screenshot 2025-01-10 at 9 38 29 PM" src="https://github.com/user-attachments/assets/e5c507b8-50b4-4857-8f8e-bd9177916f43" />
+<img width="1728" alt="Screenshot 2025-01-10 at 10 22 56 PM" src="https://github.com/user-attachments/assets/276e034a-1b52-4de6-a8b3-2cb92af58472" />
+
+
 ## Getting Started
 
 I recommend taking a backup of your current config before getting started.
