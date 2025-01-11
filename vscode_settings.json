@@ -1,0 +1,146 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.cursorStyle": "block",
+    "editor.cursorBlinking": "expand",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.fontFamily": "JetBrainsMono Nerd Font",
+    "editor.fontSize": 16,
+    "editor.fontLigatures": true,
+    "editor.minimap.enabled": false,
+    "apc.font.family": "JetBrainsMono Nerd Font",
+    "apc.monospace.font.family": "JetBrainsMono Nerd Font",
+    "apc.menubar.compact": true,
+    "breadcrumbs.enabled": false,
+    "liveshare.accessibility.soundsEnabled": false,
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": true,
+        "scminput": false,
+        "rust": false
+    },
+    "workbench.iconTheme": "vscode-icons",
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.fontWeight": "bold",
+    "terminal.integrated.cursorStyle": "block",
+    "terminal.integrated.fontSize": 16,
+    "explorer.confirmDelete": false,
+    "zenMode.hideLineNumbers": false,
+    "editor.accessibilitySupport": "off",
+    "accessibility.signals.lineHasError": {
+        "sound": "off"
+    },
+    "accessibility.signals.lineHasFoldedArea": {
+        "sound": "off"
+    },
+    "accessibility.signals.lineHasBreakpoint": {
+        "sound": "off"
+    },
+    "accessibility.signals.lineHasInlineSuggestion": {
+        "sound": "off"
+    },
+    "accessibility.signals.terminalQuickFix": {
+        "sound": "off"
+    },
+    "accessibility.signals.onDebugBreak": {
+        "sound": "off"
+    },
+    "accessibility.signals.noInlayHints": {
+        "sound": "off"
+    },
+    "accessibility.signals.taskCompleted": {
+        "sound": "off"
+    },
+    "accessibility.signals.taskFailed": {
+        "sound": "off"
+    },
+    "accessibility.signals.terminalCommandFailed": {
+        "sound": "off"
+    },
+    "accessibility.signals.notebookCellCompleted": {
+        "sound": "off"
+    },
+    "accessibility.signals.notebookCellFailed": {
+        "sound": "off"
+    },
+    "accessibility.signals.diffLineInserted": {
+        "sound": "off"
+    },
+    "accessibility.signals.diffLineDeleted": {
+        "sound": "off"
+    },
+    "accessibility.signals.diffLineModified": {
+        "sound": "off"
+    },
+    "window.titleBarStyle": "custom",
+    "accessibility.signals.progress": {
+        "sound": "off"
+    },
+    "vim.visualModeKeyBindings": [
+        {
+            "before": [
+                ">"
+            ],
+            "commands": [
+                "editor.action.indentLines"
+            ]
+        },
+        {
+            "before": [
+                "<"
+            ],
+            "commands": [
+                "editor.action.outdentLines"
+            ]
+        },
+        {
+            "before": ["J"],
+            "after": [":", "m", ">", "+", "1", "<CR>", "g", "v", "=", "g", "v"]
+        },
+        {
+            "before": ["K"],
+            "after": [":", "m", "<", "-", "2", "<CR>", "g", "v", "=", "g", "v"]
+        }
+    ],
+    "vim.normalModeKeyBindings": [
+        {
+            "before": ["<C-d>"],
+            "after": ["<C-d>", "z", "z"]
+        },
+        {
+            "before": ["<C-u>"],
+            "after": ["<C-u>", "z", "z"]
+        }
+    ],
+    "vim.normalModeKeyBindingsNonRecursive": [
+        {
+            "before": ["]", "d"],
+            "commands": ["editor.action.marker.nextInFiles"],
+            "silent": true
+        },
+        {
+            "before": ["[", "d"],
+            "commands": ["editor.action.marker.prevInFiles"],
+            "silent": true
+        }
+    ],
+    "vim.useSystemClipboard": true,
+    "flake8.args": [
+        "--max-line-length=120"
+    ],
+    "opa.bundleMode": true,
+    "editor.lineNumbers": "relative",
+    "workbench.colorTheme": "Solarized Dark",
+    "git.openRepositoryInParentFolders": "never",
+    "workbench.editor.revealIfOpen": true,
+    "workbench.tree.indent": 20,
+    "workbench.settings.applyToAllProfiles": [
+        "workbench.colorCustomizations"
+    ],
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": "explicit"
+    },
+    "editor.linkedEditing": true,
+    "editor.unicodeHighlight.includeComments": true
+}
+
