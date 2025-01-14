@@ -28,3 +28,10 @@ alias vim="nvim"
 
 # display system info with random pokemon
 ~/dotfiles/.config/fish/tmp/pokefetch/pokefetch.py -r
+
+# mysql setup
+fish_add_path /opt/homebrew/opt/mysql@8.0/bin
+
+set -gx LDFLAGS "-L/opt/homebrew/opt/mysql@8.0/lib"
+set -gx CPPFLAGS "-I/opt/homebrew/opt/mysql@8.0/include"
+

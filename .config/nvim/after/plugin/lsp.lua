@@ -40,8 +40,6 @@ require('mason').setup({})
 require('mason-lspconfig').setup({
   -- add servers here for mason to automatically add
   ensure_installed = {
-      'typescript-language-server',
-      'python-lsp-server',
 	  'rust_analyzer',
       'lua_ls',
   },
