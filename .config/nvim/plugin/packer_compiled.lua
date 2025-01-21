@@ -122,7 +122,7 @@ _G.packer_plugins = {
     url = "https://github.com/github/copilot.vim"
   },
   ["dashboard-nvim"] = {
-    config = { "\27LJ\2\n_\0\0\5\0\5\0\b6\0\0\0009\0\1\0009\0\2\0)\2\0\0'\3\3\0005\4\4\0B\0\4\1K\0\1\0\1\0\2\tbold\2\afg\f#29a298\20DashboardHeader\16nvim_set_hl\bapi\bvim�\14\1\0\t\0\28\0+'\0\0\0006\1\1\0'\3\2\0B\1\2\0029\1\3\0015\3\4\0005\4\a\0004\5\3\0005\6\5\0>\6\1\0055\6\6\0>\6\2\5=\5\b\0045\5\t\0=\5\n\0046\5\v\0009\5\f\5\18\a\0\0'\b\r\0B\5\3\2=\5\14\0045\5\15\0=\5\16\0044\5\0\0=\5\17\4=\4\18\3B\1\2\0016\1\v\0009\1\19\0019\1\20\1)\3\0\0'\4\21\0005\5\22\0B\1\4\0016\1\v\0009\1\19\0019\1\23\1'\3\24\0005\4\25\0003\5\26\0=\5\27\4B\1\3\1K\0\1\0\rcallback\0\1\0\2\fpattern\6*\rcallback\0\16ColorScheme\24nvim_create_autocmd\1\0\2\tbold\2\afg\f#29a298\20DashboardHeader\16nvim_set_hl\bapi\vconfig\vfooter\fproject\1\0\1\nlimit\3\6\vheader\6\n\nsplit\bvim\rpackages\1\0\1\venable\1\rshortcut\1\0\5\rshortcut\0\fproject\0\vfooter\0\rpackages\0\vheader\0\1\0\2\ngroup\22DashboardShortCut\tdesc\31[🌐  blog.vgnshiyer.dev]\1\0\2\ngroup\22DashboardShortCut\tdesc\22[  @vgnshiyer]\1\0\2\vconfig\0\ntheme\nhyper\nsetup\14dashboard\frequire�\t        ██╗   ██╗ ██████╗ ███╗   ██╗███████╗██╗  ██╗██╗██╗   ██╗███████╗██████╗    \n        ██║   ██║██╔════╝ ████╗  ██║██╔════╝██║  ██║██║╚██╗ ██╔╝██╔════╝██╔══██╗   \n        ██║   ██║██║  ███╗██╔██╗ ██║███████╗███████║██║ ╚████╔╝ █████╗  ██████╔╝   \n        ╚██╗ ██╔╝██║   ██║██║╚██╗██║╚════██║██╔══██║██║  ╚██╔╝  ██╔══╝  ██╔══██╗   \n         ╚████╔╝ ╚██████╔╝██║ ╚████║███████║██║  ██║██║   ██║   ███████╗██║  ██║██╗\n          ╚═══╝   ╚═════╝ ╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝\n      \0" },
+    config = { "\27LJ\2\n_\0\0\5\0\5\0\b6\0\0\0009\0\1\0009\0\2\0)\2\0\0'\3\3\0005\4\4\0B\0\4\1K\0\1\0\1\0\2\tbold\2\afg\f#29a298\20DashboardHeader\16nvim_set_hl\bapi\bvim�\14\1\0\t\0\28\0+'\0\0\0006\1\1\0'\3\2\0B\1\2\0029\1\3\0015\3\4\0005\4\a\0004\5\3\0005\6\5\0>\6\1\0055\6\6\0>\6\2\5=\5\b\0045\5\t\0=\5\n\0046\5\v\0009\5\f\5\18\a\0\0'\b\r\0B\5\3\2=\5\14\0045\5\15\0=\5\16\0044\5\0\0=\5\17\4=\4\18\3B\1\2\0016\1\v\0009\1\19\0019\1\20\1)\3\0\0'\4\21\0005\5\22\0B\1\4\0016\1\v\0009\1\19\0019\1\23\1'\3\24\0005\4\25\0003\5\26\0=\5\27\4B\1\3\1K\0\1\0\rcallback\0\1\0\2\fpattern\6*\rcallback\0\16ColorScheme\24nvim_create_autocmd\1\0\2\tbold\2\afg\f#29a298\20DashboardHeader\16nvim_set_hl\bapi\vconfig\vfooter\fproject\1\0\1\nlimit\3\6\vheader\6\n\nsplit\bvim\rpackages\1\0\1\venable\1\rshortcut\1\0\5\rshortcut\0\vheader\0\fproject\0\vfooter\0\rpackages\0\1\0\2\ngroup\22DashboardShortCut\tdesc\31[🌐  blog.vgnshiyer.dev]\1\0\2\ngroup\22DashboardShortCut\tdesc\22[  @vgnshiyer]\1\0\2\vconfig\0\ntheme\nhyper\nsetup\14dashboard\frequire�\t        ██╗   ██╗ ██████╗ ███╗   ██╗███████╗██╗  ██╗██╗██╗   ██╗███████╗██████╗    \n        ██║   ██║██╔════╝ ████╗  ██║██╔════╝██║  ██║██║╚██╗ ██╔╝██╔════╝██╔══██╗   \n        ██║   ██║██║  ███╗██╔██╗ ██║███████╗███████║██║ ╚████╔╝ █████╗  ██████╔╝   \n        ╚██╗ ██╔╝██║   ██║██║╚██╗██║╚════██║██╔══██║██║  ╚██╔╝  ██╔══╝  ██╔══██╗   \n         ╚████╔╝ ╚██████╔╝██║ ╚████║███████║██║  ██║██║   ██║   ███████╗██║  ██║██╗\n          ╚═══╝   ╚═════╝ ╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝\n      \0" },
     loaded = false,
     needs_bufread = false,
     only_cond = false,
@@ -150,7 +150,7 @@ _G.packer_plugins = {
     url = "https://github.com/3rd/image.nvim"
   },
   ["indent-blankline.nvim"] = {
-    config = { "\27LJ\2\n�\2\0\0\5\0\14\0\0176\0\0\0'\2\1\0B\0\2\0029\0\2\0005\2\4\0005\3\3\0=\3\5\0025\3\6\0=\3\a\0025\3\t\0005\4\b\0=\4\n\0035\4\v\0=\4\f\3=\3\r\2B\0\2\1K\0\1\0\fexclude\14filetypes\1\b\0\0\thelp\rstartify\14dashboard\vpacker\17neogitstatus\rNvimTree\fTrouble\rbuftypes\1\0\2\14filetypes\0\rbuftypes\0\1\3\0\0\rterminal\vnofile\nscope\1\0\1\fenabled\1\vindent\1\0\3\vindent\0\nscope\0\fexclude\0\1\0\1\tchar\b┊\nsetup\bibl\frequire\0" },
+    config = { "\27LJ\2\n�\2\0\0\5\0\14\0\0176\0\0\0'\2\1\0B\0\2\0029\0\2\0005\2\4\0005\3\3\0=\3\5\0025\3\6\0=\3\a\0025\3\t\0005\4\b\0=\4\n\0035\4\v\0=\4\f\3=\3\r\2B\0\2\1K\0\1\0\fexclude\14filetypes\1\b\0\0\thelp\rstartify\14dashboard\vpacker\17neogitstatus\rNvimTree\fTrouble\rbuftypes\1\0\2\14filetypes\0\rbuftypes\0\1\3\0\0\rterminal\vnofile\nscope\1\0\1\fenabled\1\vindent\1\0\3\fexclude\0\vindent\0\nscope\0\1\0\1\tchar\b┊\nsetup\bibl\frequire\0" },
     loaded = true,
     path = "/Users/viiyer/.local/share/nvim/site/pack/packer/start/indent-blankline.nvim",
     url = "https://github.com/lukas-reineke/indent-blankline.nvim"
@@ -191,7 +191,7 @@ _G.packer_plugins = {
     url = "https://github.com/nvim-neo-tree/neo-tree.nvim"
   },
   ["noice.nvim"] = {
-    config = { "\27LJ\2\n�\3\0\0\6\0\21\0\0256\0\0\0'\2\1\0B\0\2\0029\0\2\0005\2\4\0005\3\3\0=\3\5\0025\3\a\0005\4\6\0=\4\b\3=\3\t\0025\3\n\0=\3\v\0025\3\f\0005\4\14\0005\5\r\0=\5\15\4=\4\16\3=\3\15\0025\3\17\0=\3\18\0025\3\19\0=\3\20\2B\0\2\1K\0\1\0\fpresets\1\0\1\18bottom_search\2\14popupmenu\1\0\1\fenabled\2\vformat\fcmdline\1\0\1\fcmdline\0\1\0\3\fpattern\a^:\tlang\bvim\ticon\a>_\1\0\2\fenabled\2\vformat\0\rmessages\1\0\1\fenabled\1\blsp\rprogress\1\0\1\rprogress\0\1\0\1\fenabled\1\vnotify\1\0\6\14popupmenu\0\vnotify\0\fpresets\0\fcmdline\0\rmessages\0\blsp\0\1\0\1\fenabled\1\nsetup\nnoice\frequire\0" },
+    config = { "\27LJ\2\n�\3\0\0\6\0\21\0\0256\0\0\0'\2\1\0B\0\2\0029\0\2\0005\2\4\0005\3\3\0=\3\5\0025\3\a\0005\4\6\0=\4\b\3=\3\t\0025\3\n\0=\3\v\0025\3\f\0005\4\14\0005\5\r\0=\5\15\4=\4\16\3=\3\15\0025\3\17\0=\3\18\0025\3\19\0=\3\20\2B\0\2\1K\0\1\0\fpresets\1\0\1\18bottom_search\2\14popupmenu\1\0\1\fenabled\2\vformat\fcmdline\1\0\1\fcmdline\0\1\0\3\tlang\bvim\ticon\a>_\fpattern\a^:\1\0\2\fenabled\2\vformat\0\rmessages\1\0\1\fenabled\1\blsp\rprogress\1\0\1\rprogress\0\1\0\1\fenabled\1\vnotify\1\0\6\rmessages\0\fpresets\0\blsp\0\14popupmenu\0\vnotify\0\fcmdline\0\1\0\1\fenabled\1\nsetup\nnoice\frequire\0" },
     loaded = false,
     needs_bufread = false,
     only_cond = false,
@@ -263,31 +263,31 @@ _G.packer_plugins = {
 }
 
 time([[Defining packer_plugins]], false)
--- Config for: transparent.nvim
-time([[Config for transparent.nvim]], true)
-try_loadstring("\27LJ\2\n9\0\0\3\0\3\0\0066\0\0\0'\2\1\0B\0\2\0029\0\2\0B\0\1\1K\0\1\0\nsetup\16transparent\frequire\0", "config", "transparent.nvim")
-time([[Config for transparent.nvim]], false)
--- Config for: Comment.nvim
-time([[Config for Comment.nvim]], true)
-try_loadstring("\27LJ\2\n�\1\0\0\6\0\r\0\0226\0\0\0'\2\1\0B\0\2\0029\0\2\0B\0\1\0016\0\3\0009\0\4\0009\0\5\0'\2\6\0'\3\a\0'\4\b\0005\5\t\0B\0\5\0016\0\3\0009\0\4\0009\0\5\0'\2\n\0'\3\a\0'\4\v\0005\5\f\0B\0\5\1K\0\1\0\1\0\2\fnoremap\1\vsilent\2\agc\6v\1\0\2\fnoremap\1\vsilent\2\bgcc\n<F19>\6n\20nvim_set_keymap\bapi\bvim\nsetup\fComment\frequire\0", "config", "Comment.nvim")
-time([[Config for Comment.nvim]], false)
 -- Config for: nvim-surround
 time([[Config for nvim-surround]], true)
 try_loadstring("\27LJ\2\n?\0\0\3\0\3\0\a6\0\0\0'\2\1\0B\0\2\0029\0\2\0004\2\0\0B\0\2\1K\0\1\0\nsetup\18nvim-surround\frequire\0", "config", "nvim-surround")
 time([[Config for nvim-surround]], false)
+-- Config for: transparent.nvim
+time([[Config for transparent.nvim]], true)
+try_loadstring("\27LJ\2\n9\0\0\3\0\3\0\0066\0\0\0'\2\1\0B\0\2\0029\0\2\0B\0\1\1K\0\1\0\nsetup\16transparent\frequire\0", "config", "transparent.nvim")
+time([[Config for transparent.nvim]], false)
+-- Config for: indent-blankline.nvim
+time([[Config for indent-blankline.nvim]], true)
+try_loadstring("\27LJ\2\n�\2\0\0\5\0\14\0\0176\0\0\0'\2\1\0B\0\2\0029\0\2\0005\2\4\0005\3\3\0=\3\5\0025\3\6\0=\3\a\0025\3\t\0005\4\b\0=\4\n\0035\4\v\0=\4\f\3=\3\r\2B\0\2\1K\0\1\0\fexclude\14filetypes\1\b\0\0\thelp\rstartify\14dashboard\vpacker\17neogitstatus\rNvimTree\fTrouble\rbuftypes\1\0\2\14filetypes\0\rbuftypes\0\1\3\0\0\rterminal\vnofile\nscope\1\0\1\fenabled\1\vindent\1\0\3\fexclude\0\vindent\0\nscope\0\1\0\1\tchar\b┊\nsetup\bibl\frequire\0", "config", "indent-blankline.nvim")
+time([[Config for indent-blankline.nvim]], false)
+-- Config for: Comment.nvim
+time([[Config for Comment.nvim]], true)
+try_loadstring("\27LJ\2\n�\1\0\0\6\0\r\0\0226\0\0\0'\2\1\0B\0\2\0029\0\2\0B\0\1\0016\0\3\0009\0\4\0009\0\5\0'\2\6\0'\3\a\0'\4\b\0005\5\t\0B\0\5\0016\0\3\0009\0\4\0009\0\5\0'\2\n\0'\3\a\0'\4\v\0005\5\f\0B\0\5\1K\0\1\0\1\0\2\fnoremap\1\vsilent\2\agc\6v\1\0\2\fnoremap\1\vsilent\2\bgcc\n<F19>\6n\20nvim_set_keymap\bapi\bvim\nsetup\fComment\frequire\0", "config", "Comment.nvim")
+time([[Config for Comment.nvim]], false)
 -- Config for: autoclose.nvim
 time([[Config for autoclose.nvim]], true)
 try_loadstring("\27LJ\2\n7\0\0\3\0\3\0\0066\0\0\0'\2\1\0B\0\2\0029\0\2\0B\0\1\1K\0\1\0\nsetup\14autoclose\frequire\0", "config", "autoclose.nvim")
 time([[Config for autoclose.nvim]], false)
--- Config for: indent-blankline.nvim
-time([[Config for indent-blankline.nvim]], true)
-try_loadstring("\27LJ\2\n�\2\0\0\5\0\14\0\0176\0\0\0'\2\1\0B\0\2\0029\0\2\0005\2\4\0005\3\3\0=\3\5\0025\3\6\0=\3\a\0025\3\t\0005\4\b\0=\4\n\0035\4\v\0=\4\f\3=\3\r\2B\0\2\1K\0\1\0\fexclude\14filetypes\1\b\0\0\thelp\rstartify\14dashboard\vpacker\17neogitstatus\rNvimTree\fTrouble\rbuftypes\1\0\2\14filetypes\0\rbuftypes\0\1\3\0\0\rterminal\vnofile\nscope\1\0\1\fenabled\1\vindent\1\0\3\vindent\0\nscope\0\fexclude\0\1\0\1\tchar\b┊\nsetup\bibl\frequire\0", "config", "indent-blankline.nvim")
-time([[Config for indent-blankline.nvim]], false)
 vim.cmd [[augroup packer_load_aucmds]]
 vim.cmd [[au!]]
   -- Event lazy-loads
 time([[Defining lazy-load event autocommands]], true)
-vim.cmd [[au VimEnter * ++once lua require("packer.load")({'noice.nvim', 'dashboard-nvim'}, { event = "VimEnter *" }, _G.packer_plugins)]]
+vim.cmd [[au VimEnter * ++once lua require("packer.load")({'dashboard-nvim', 'noice.nvim'}, { event = "VimEnter *" }, _G.packer_plugins)]]
 time([[Defining lazy-load event autocommands]], false)
 vim.cmd("augroup END")
 

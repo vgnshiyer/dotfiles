@@ -1,4 +1,4 @@
-function ta
+function tattach
     set session_name
     set dir (pwd)
     while count $argv > /dev/null

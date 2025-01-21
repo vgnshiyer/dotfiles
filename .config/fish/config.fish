@@ -25,6 +25,9 @@ alias gs="git status"
 alias gc="git commit"
 alias lg="lazygit"
 alias vim="nvim"
+alias ta="task add"
+alias tl="task list"
+alias tt="taskwarrior-tui"
 
 # display system info with random pokemon
 ~/dotfiles/.config/fish/tmp/pokefetch/pokefetch.py -r
@@ -34,4 +37,4 @@ fish_add_path /opt/homebrew/opt/mysql@8.0/bin
 
 set -gx LDFLAGS "-L/opt/homebrew/opt/mysql@8.0/lib"
 set -gx CPPFLAGS "-I/opt/homebrew/opt/mysql@8.0/include"
-
+set -gx TABBY_DISABLE_USAGE_COLLECTION 1
