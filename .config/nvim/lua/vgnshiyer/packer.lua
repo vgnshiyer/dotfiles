@@ -14,6 +14,7 @@ return require('packer').startup(function(use)
 
   -- colorschemes
   use 'craftzdog/solarized-osaka.nvim'
+  use 'catppuccin/nvim'
   use 'zaldih/themery.nvim' -- theme switcher
 
   -- syntax highlighting

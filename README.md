@@ -39,7 +39,7 @@ git clone --depth 1 https://github.com/wbthomason/packer.nvim\
  ~/.local/share/nvim/site/pack/packer/start/packer.nvim
 ```
 
-* [Cursor-AI](https://www.cursor.com/)
+* [VS-Code](https://code.visualstudio.com/)
 * [Nvim](https://neovim.io/)
 
 *Go to `~/.config/nvim/lua/vgnshiyer/packer.lua`*

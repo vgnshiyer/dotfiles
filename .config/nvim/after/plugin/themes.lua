@@ -17,6 +17,10 @@ require("themery").setup({
   themes = {
     "solarized-osaka",
     "solarized-osaka-day",
+    "catppuccin",
+    "catppuccin-latte",
+    "catppuccin-mocha",
+    "catppuccin-frape",
   },
   livePreview = true,
 })
@@ -27,7 +31,7 @@ vim.keymap.set('n', '<leader>tt', ':Themery<CR>')
 require('lualine').setup {
   options = {
     icons_enabled = true,
-    theme = 'solarized_dark',
+    theme = 'palenight',
   },
   extensions = {
     'nvim-tree'
