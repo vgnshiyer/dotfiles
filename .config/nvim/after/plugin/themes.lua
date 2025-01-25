@@ -12,6 +12,10 @@ require("solarized-osaka").setup({
   dim_inactive = true
 })
 
+require("catppuccin").setup({
+  transparent_background = true
+})
+
 -- theme switcher
 require("themery").setup({
   themes = {
