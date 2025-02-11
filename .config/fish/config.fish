@@ -20,14 +20,17 @@ alias ls="eza --icons=always --color=always"
 alias cd="z"
 alias nv="nvim"
 alias gtree="git log --pretty=oneline --graph --decorate --all"
-alias g="git"
-alias gs="git status"
-alias gc="git commit"
 alias lg="lazygit"
 alias vim="nvim"
 alias ta="task add"
 alias tl="task list"
 alias tt="taskwarrior-tui"
+
+# git specific
+alias g="git"
+alias status="git status"
+alias commit="git commit"
+alias push="git push"
 
 # display system info with random pokemon
 ~/dotfiles/.config/fish/tmp/pokefetch/pokefetch.py -r
