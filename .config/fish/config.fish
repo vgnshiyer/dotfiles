@@ -28,8 +28,11 @@ alias tt="taskwarrior-tui"
 
 # git specific
 alias g="git"
-alias status="git status"
+alias gs="git status"
+alias stash="git stash"
+alias pop="git stash pop"
 alias commit="git commit"
+alias checkout="git checkout"
 alias push="git push"
 
 # display system info with random pokemon
