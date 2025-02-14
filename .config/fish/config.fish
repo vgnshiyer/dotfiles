@@ -28,12 +28,13 @@ alias tt="taskwarrior-tui"
 
 # git specific
 alias g="git"
-alias gs="git status"
+alias ss="git status"
 alias stash="git stash"
 alias pop="git stash pop"
 alias commit="git commit"
 alias checkout="git checkout"
 alias push="git push"
+alias pull="git pull"
 
 # display system info with random pokemon
 ~/dotfiles/.config/fish/tmp/pokefetch/pokefetch.py -r
