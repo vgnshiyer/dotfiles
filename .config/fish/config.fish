@@ -35,6 +35,7 @@ alias commit="git commit"
 alias checkout="git checkout"
 alias push="git push"
 alias pull="git pull"
+alias reset="git reset"
 
 # display system info with random pokemon
 ~/dotfiles/.config/fish/tmp/pokefetch/pokefetch.py -r
