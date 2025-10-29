@@ -37,12 +37,21 @@ alias push="git push"
 alias pull="git pull"
 alias reset="git reset"
 
+# K8s specific
+alias k="kubectl"
+alias kg="kubectl get"
+alias kga="kubectl get all"
+alias kp="kubectl get po"
+alias kxit="kubectl exec -it"
+alias krm="kubectl delete"
+
 # display system info with random pokemon
 ~/dotfiles/.config/fish/tmp/pokefetch/pokefetch.py -r
 
 # mysql setup
 fish_add_path /opt/homebrew/opt/mysql@8.0/bin
+fish_add_path /Users/viiyer/.local/bin
 
 set -gx LDFLAGS "-L/opt/homebrew/opt/mysql@8.0/lib"
 set -gx CPPFLAGS "-I/opt/homebrew/opt/mysql@8.0/include"
-set -gx TABBY_DISABLE_USAGE_COLLECTION 1
+set -gx PKG_CONFIG_PATH "/opt/homebrew/opt/mysql@8.0/lib/pkgconfig"
